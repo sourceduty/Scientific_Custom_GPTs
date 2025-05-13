@@ -18,4 +18,4 @@ The growing ecosystem of the GPT Store shows that AI is no longer one-size-fits-
 
 [Sourceduty Custom GPTs](https://sourceduty.com/custom-gpts/)
 <br>
-[Sourceduty Sceince Fields](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-field)
+[Sourceduty Science Fields](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-field)
