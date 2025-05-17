@@ -1,6 +1,6 @@
 ## THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs
 
-![2000 Custom_GPTs](https://github.com/user-attachments/assets/73a98836-0c4a-422c-9ee8-45ebedfcf20a)
+![3000 Custom GPTs](https://github.com/user-attachments/assets/8a22af06-7140-45cf-858f-3f9a5937e932)
 
 #
 Sourceduty has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of 2,154 custom GPTs on the OpenAI GPT Store. This list is audited and updated regularly.
