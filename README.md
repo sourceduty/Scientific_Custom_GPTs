@@ -39,5 +39,3 @@ Because of this shared infrastructure, a custom GPT does not meet the threshold 
 #
 
 [Sourceduty Custom GPTs](https://sourceduty.com/custom-gpts/)
-<br>
-[Sourceduty Science Fields](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-field)
