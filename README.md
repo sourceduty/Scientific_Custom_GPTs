@@ -14,6 +14,36 @@ Looking ahead, Sourceduty is far from finished. The company is ambitiously chart
 📈 Thanks to all the folks behind OpenAI, ChatGPT, and more. Good job!
 #
 
+[Sourceduty](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
+<br>
+[Sourceduty Science Field](https://chatgpt.com/g/g-67b1bb1a8e14819198203e251061b776-sourceduty-science-field)
+<br>
+[Sourceduty Employee](https://chatgpt.com/g/g-oDACMjiZX-sourceduty-employee)
+<br>
+[Sourceduty Science](https://chatgpt.com/g/g-676ff54416508191a7d70d440c8af3db-sourceduty-science)
+<br>
+[Sourceduty Future](https://chatgpt.com/g/g-677012a057208191ba8f6637a5e344f0-sourceduty-future)
+<br>
+[Sourceduty Service](https://chatgpt.com/g/g-676fec90770c81919e6940df9e561201-sourceduty-service)
+<br>
+[Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
+<br>
+[Sourceduty Python](https://chatgpt.com/g/g-67a84341df8c8191ba10c23c4a8003d0-sourceduty-python)
+<br>
+[Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
+<br>
+[Sourceduty Work](https://chatgpt.com/g/g-676477e0795c819194d93593fc627144-sourceduty-work)
+<br>
+[Sourceduty Explorer](https://chatgpt.com/g/g-kTnNxUovH-sourceduty-explorer)
+<br>
+[Sourceduty Project](https://chatgpt.com/g/g-676ff90454c481919ae09f6568d43936-sourceduty-project)
+<br>
+[Sourceduty Work Record](https://chatgpt.com/g/g-6773c20bc6c08191a57f5c3870d8e36e-sourceduty-work-record)
+<br>
+[Sourceduty.com](https://chatgpt.com/g/g-67798864ebc481919d64b594ce90db55-sourceduty-com)
+
+#
+
 ![5000 Custom GPTs](https://github.com/user-attachments/assets/1b8b079c-b124-40ae-8ac7-8fc34215b0d7)
 
 As OpenAI expands its GPT Store, a powerful opportunity is emerging for professionals across fields to use AI in a way that’s deeply personalized and practical. For theoretical scientists, working researchers, and corporate employees, the GPT Store isn’t just a novelty marketplace—it’s a toolbox filled with specialized assistants designed to solve your daily challenges. These custom GPTs can be tailored to your role, your data, and your workflow, offering you an AI that actually understands your world. If you’ve been hesitant to adopt AI because it felt too general, too risky, or too disconnected from your domain, now’s the time to take another look.
