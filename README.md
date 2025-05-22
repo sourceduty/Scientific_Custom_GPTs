@@ -1,9 +1,7 @@
-## THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs
-
 ![3000 Custom GPTs](https://github.com/user-attachments/assets/8a22af06-7140-45cf-858f-3f9a5937e932)
 
 #
-Sourceduty has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of `2371` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly.
+Sourceduty has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of `2371` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly. THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs.
 #
 
 This achievement places Sourceduty among the most prolific creators in the AI ecosystem, with each GPT crafted to fulfill a distinct function—whether it’s enhancing digital artistry, accelerating code development, boosting fan engagement, or automating creative workflows. These tools are not only highly functional but are also aligned with the specific challenges and opportunities faced by professionals in fields like gaming, virtual reality, 3D modeling, and content creation. The sheer variety and utility of this expansive collection illustrate Sourceduty’s agility in addressing diverse market needs, offering intuitive, AI-driven solutions that democratize access to complex technologies. From generating immersive lore and optimizing assets to automating social posts and assisting with narrative design, Sourceduty's GPTs are built to empower users of all technical backgrounds, making it easier than ever to integrate powerful AI into day-to-day creative production.
@@ -23,6 +21,8 @@ Looking ahead, Sourceduty is far from finished. The company is ambitiously chart
 [Sourceduty Science](https://chatgpt.com/g/g-676ff54416508191a7d70d440c8af3db-sourceduty-science)
 <br>
 [Sourceduty Future](https://chatgpt.com/g/g-677012a057208191ba8f6637a5e344f0-sourceduty-future)
+<br>
+[Sourceduty Admin](https://chatgpt.com/g/g-682f397ca9d88191951b9f82fbba274d-sourceduty-admin)
 <br>
 [Sourceduty Service](https://chatgpt.com/g/g-676fec90770c81919e6940df9e561201-sourceduty-service)
 <br>
