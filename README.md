@@ -68,6 +68,3 @@ Because of this shared infrastructure, a custom GPT does not meet the threshold 
 
 #
 🛠️ Thanks for using these exclusive and evolving custom GPTs. 
-#
-
-[Sourceduty Custom GPTs](https://sourceduty.com/custom-gpts/)
