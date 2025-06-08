@@ -1,7 +1,7 @@
 ![ChatGPT Store](https://github.com/user-attachments/assets/8e3e5a40-d6ff-45f4-a6c7-3303b2868272)
 
 #
-[Sourceduty](https://sourceduty.com/custom-gpts) has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of `2322` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly. There are over `75K` chat uses in July, 2025.
+[Sourceduty](https://sourceduty.com/custom-gpts) has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of `2322` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly. There are over `75K` chat uses in June, 2025.
 
 #
 ## ⭐ THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs
