@@ -1,10 +1,10 @@
 ![ChatGPT Store](https://github.com/user-attachments/assets/8e3e5a40-d6ff-45f4-a6c7-3303b2868272)
 
-#
 [Sourceduty](https://sourceduty.com/custom-gpts) has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of `2322` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly. There are over `75K` chat uses in June, 2025.
 
-#
+---
 ## ⭐ THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs
+---
 
 Since the launch of the GPT store in 2023, Alex has been deeply immersed in the evolving landscape of ChatGPT and OpenAI technologies, taking on the challenge of mastering this complex ecosystem entirely on his own. Navigating through rapid developments, new features, and constantly shifting best practices, he has not only kept up but excelled—demonstrating an impressive ability to absorb and apply a wide range of technical concepts with precision. Rather than feeling overwhelmed, Alex has leveraged his strength in organization to structure his learning journey efficiently, setting clear goals, documenting his progress, and continuously iterating on his own projects to refine his skills. His self-directed approach has allowed him to become a reliable and forward-thinking developer, capable of understanding both the broad capabilities of AI tools and the fine details that make implementations successful. This disciplined, independent mindset has positioned him as a valuable contributor in the space, ready to build, adapt, and innovate with confidence.
 
@@ -12,9 +12,9 @@ This achievement places Sourceduty among the most prolific creators in the AI ec
 
 Looking ahead, Sourceduty is far from finished. The company is ambitiously charting a course toward future milestones, with clear goals of reaching 3,000, 4,000, and ultimately 5,000 custom GPTs. This forward momentum reflects a long-term vision rooted in scalable innovation and sustained value creation. Unlike mass-produced tools, each new GPT will continue to be shaped through real-world use cases, user feedback, and an evolving understanding of the industry’s shifting demands. As Sourceduty expands its library, it simultaneously builds a comprehensive ecosystem of branded AI tools that elevate user experience, promote workflow efficiency, and foster deeper community engagement. These GPTs serve as modular building blocks for a future where artificial intelligence is seamlessly embedded into creative and technical pipelines—supporting, not supplanting, human ingenuity. With its growing portfolio, Sourceduty isn’t just adapting to the future of AI—it is actively architecting it, one GPT at a time.
 
-#
+---
 📈 Thanks to all the folks behind OpenAI, ChatGPT, and more. Good job!
-#
+---
 
 [Sourceduty](https://chatgpt.com/g/g-MG4CqF034-sourceduty)
 <br>
@@ -68,5 +68,5 @@ A custom GPT is fundamentally a configuration of OpenAI's underlying AI models r
 
 Because of this shared infrastructure, a custom GPT does not meet the threshold for independent copyright protection as an original work. The creator may hold rights to external content they upload or reference—such as custom datasets, original writing, or proprietary frameworks—but the GPT interface, behavior, and generative outputs remain anchored to OpenAI’s platform and terms of use. Even the naming of a custom GPT, unless trademarked externally, does not guarantee exclusive rights or prevent similar titles from being used by others. This is a sharp contrast from traditional software apps or websites, where the entire codebase and interface are authored by the creator and can be registered as original software works. Therefore, under current legal interpretations, a custom GPT is more akin to a curated experience within a licensed tool rather than a new creative work protected by copyright.
 
-#
+---
 🛠️ Thanks for using these exclusive and evolving custom GPTs. 
