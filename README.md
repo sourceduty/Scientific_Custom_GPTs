@@ -8,6 +8,53 @@
 #### Most Popular: ```House Design, README, Image Collage, Compare Documents, Audio Analyzer, Desktop Value, Browser Extension```
 #
 
+Advice:
+
+– Be persistent.
+– Research every part of ChatGPT’s GUI.
+– Don’t waste time correcting your mistyped prompts.
+– Explore the environments.
+– Privately template your style.
+– Read more books.
+– Avoid generic functionality.
+– Control your privacy using an offline AI model GPT.
+– Study and utilize math.
+
+Suggested To-Do List:
+
+– Develop an AI model using Python.
+– Expand the chemical universe.
+– Create or collect and sort data.
+– Create detailed ASCII text art.
+– Sort and organize astronomy data.
+– Search for contests and challenges.
+– Expand research.
+– Be creative.
+– Use a gaming computer.
+
+#
+
+Sourceduty Prompts:
+
+Print a cheat sheet for this custom GPT.
+Create an example...
+Create a wide image...
+Create a tall image...
+Create a square image...
+Create a modern logo for...
+Design an advertisement poster for...
+Design clear product packaging for...
+A logo for "Your Name", featuring a modern font and a graphic of...
+Suggest GPT expansion options.
+Try again or redo.
+Edit the instructions but don't change the title, description or conversation starters.
+Print as a plain text code block in paragraphs without using numbers or point form notes.
+Redo with perfect spelling.
+Print a hierarchal abstraction topology diagram of...
+Analyze this simulation.
+
+#
+
 Since the launch of the GPT store in 2023, Alex has been deeply immersed in the evolving landscape of ChatGPT and OpenAI technologies, taking on the challenge of mastering this complex ecosystem entirely on his own. Navigating through rapid developments, new features, and constantly shifting best practices, he has not only kept up but excelled—demonstrating an impressive ability to absorb and apply a wide range of technical concepts with precision. Rather than feeling overwhelmed, Alex has leveraged his strength in organization to structure his learning journey efficiently, setting clear goals, documenting his progress, and continuously iterating on his own projects to refine his skills. His self-directed approach has allowed him to become a reliable and forward-thinking developer, capable of understanding both the broad capabilities of AI tools and the fine details that make implementations successful. This disciplined, independent mindset has positioned him as a valuable contributor in the space, ready to build, adapt, and innovate with confidence.
 
 This achievement places Sourceduty among the most prolific creators in the AI ecosystem, with each GPT crafted to fulfill a distinct function—whether it’s enhancing digital artistry, accelerating code development, boosting fan engagement, or automating creative workflows. These tools are not only highly functional but are also aligned with the specific challenges and opportunities faced by professionals in fields like gaming, virtual reality, 3D modeling, and content creation. The sheer variety and utility of this expansive collection illustrate Sourceduty’s agility in addressing diverse market needs, offering intuitive, AI-driven solutions that democratize access to complex technologies. From generating immersive lore and optimizing assets to automating social posts and assisting with narrative design, Sourceduty's GPTs are built to empower users of all technical backgrounds, making it easier than ever to integrate powerful AI into day-to-day creative production.
