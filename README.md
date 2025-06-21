@@ -10,27 +10,27 @@
 
 Advice:
 
-– Be persistent.
-– Research every part of ChatGPT’s GUI.
-– Don’t waste time correcting your mistyped prompts.
-– Explore the environments.
-– Privately template your style.
-– Read more books.
-– Avoid generic functionality.
-– Control your privacy using an offline AI model GPT.
-– Study and utilize math.
+  – Be persistent.
+  – Research every part of ChatGPT’s GUI.
+  – Don’t waste time correcting your mistyped prompts.
+  – Explore the environments.
+  – Privately template your style.
+  – Read more books.
+  – Avoid generic functionality.
+  – Control your privacy using an offline AI model GPT.
+  – Study and utilize math.
 
 Suggested To-Do List:
 
-– Develop an AI model using Python.
-– Expand the chemical universe.
-– Create or collect and sort data.
-– Create detailed ASCII text art.
-– Sort and organize astronomy data.
-– Search for contests and challenges.
-– Expand research.
-– Be creative.
-– Use a gaming computer.
+  – Develop an AI model using Python.
+  – Expand the chemical universe.
+  – Create or collect and sort data.
+  – Create detailed ASCII text art.
+  – Sort and organize astronomy data.
+  – Search for contests and challenges.
+  – Expand research.
+  – Be creative.
+  – Use a gaming computer.
 
 #
 
