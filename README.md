@@ -8,7 +8,7 @@
 #### Most Popular: ```House Design, README, Image Collage, Compare Documents, Audio Analyzer, Desktop Value, Browser Extension```
 #
 
-Advice
+Advice:
 
 - Be persistent.
 - Research every part of ChatGPT’s GUI.
@@ -20,7 +20,7 @@ Advice
 - Control your privacy using an offline AI model (GPT).
 - Study and utilize math.
 
-Suggested To-Do List
+Suggested To-Do List:
 
 - Develop an AI model using Python.
 - Expand the chemical universe.
@@ -36,6 +36,7 @@ Suggested To-Do List
 
 Sourceduty Prompts:
 
+```
 Print a cheat sheet for this custom GPT.
 Create an example...
 Create a wide image...
@@ -52,6 +53,7 @@ Print as a plain text code block in paragraphs without using numbers or point fo
 Redo with perfect spelling.
 Print a hierarchal abstraction topology diagram of...
 Analyze this simulation.
+```
 
 #
 
