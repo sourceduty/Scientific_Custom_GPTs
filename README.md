@@ -5,7 +5,8 @@
 ---
 ### ⭐ THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs
 ---
-#### Most Popular: ```House Design, README, Image Collage, Compare Documents, Audio Analyzer, Desktop Value, Browser Extension```
+Most Popular: 
+```House Design, README, Image Collage, Compare Documents, Audio Analyzer, Desktop Value, Browser Extension```
 #
 
 Advice:
