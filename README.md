@@ -1,4 +1,4 @@
-![GPT Store](https://github.com/user-attachments/assets/ff786ec4-3305-4435-b6b3-12a62146b32b)
+![GPT Store](https://github.com/user-attachments/assets/e062e10e-9283-4afb-8f95-3342ffa3e7b2)
 
 [Sourceduty](https://sourceduty.com/custom-gpts) has solidified its position as a frontrunner in digital innovation by reaching a remarkable milestone: the publication of `2322` custom GPTs on the OpenAI GPT Store. This list is **audited and updated** regularly. There are over `75K` chat uses in June, 2025.
 
