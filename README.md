@@ -97,6 +97,8 @@ Looking ahead, Sourceduty is far from finished. The company is ambitiously chart
 [Sourceduty Work Record](https://chatgpt.com/g/g-6773c20bc6c08191a57f5c3870d8e36e-sourceduty-work-record)
 <br>
 [Sourceduty.com](https://chatgpt.com/g/g-67798864ebc481919d64b594ce90db55-sourceduty-com)
+<br>
+[Sourceduty Git (Lite)](https://chatgpt.com/g/g-685ea0567bec81919869652a93749e84-sourceduty-git-lite) 
 
 #
 
