@@ -6,7 +6,15 @@
 ### ⭐ THE WORLD’S LARGEST Self-Created INDEX of Custom GPTs
 ---
 Most Popular: 
-```House Design, README, Image Collage, Compare Documents, Audio Analyzer, Desktop Value, Browser Extension```
+
+[House Design](https://chatgpt.com/g/g-WgXvQZZ5a-house-design)
+[README](https://chatgpt.com/g/g-rA63DaENC-readme)
+[Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage)
+[Compare Documents](https://chatgpt.com/g/g-zUfIyG8eY-compare-documents)
+[Audio Analyzer](https://chatgpt.com/g/g-g0Ob3Qbue-audio-analyzer)
+[Desktop Value](https://chatgpt.com/g/g-oNBIuFtkv-desktop-value)
+[Browser Extension](https://chatgpt.com/g/g-QREsCa45r-browser-extension)
+
 #
 
 Advice:
