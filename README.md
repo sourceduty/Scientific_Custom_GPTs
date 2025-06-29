@@ -116,7 +116,7 @@ Looking ahead, Sourceduty is far from finished. The company is ambitiously chart
 
 #
 
-![Custom GPTs 5000](https://github.com/user-attachments/assets/07ad1daf-9153-4ddd-a8a7-ff2a9229cd27)
+![Custom GPTs 5000](https://github.com/user-attachments/assets/1bb4a999-a5d6-4188-a3c2-9a8903391489)
 
 As OpenAI expands its GPT Store, a powerful opportunity is emerging for professionals across fields to use AI in a way that’s deeply personalized and practical. For theoretical scientists, working researchers, and corporate employees, the GPT Store isn’t just a novelty marketplace—it’s a toolbox filled with specialized assistants designed to solve your daily challenges. These custom GPTs can be tailored to your role, your data, and your workflow, offering you an AI that actually understands your world. If you’ve been hesitant to adopt AI because it felt too general, too risky, or too disconnected from your domain, now’s the time to take another look.
 
